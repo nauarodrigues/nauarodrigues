@@ -1,16 +1,30 @@
-### Hi there 👋
+# Perfil no GitHub
 
-<!--
-**nauarodrigues/nauarodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é o perfil no GitHub de [seu nome].
 
-Here are some ideas to get you started:
+**Formações**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python:
+    * Curso de introdução à linguagem Python
+    * Curso avançado de Python para desenvolvimento web
+    * Curso de machine learning com Python
+* Java:
+    * Curso de introdução à linguagem Java
+    * Curso avançado de Java para desenvolvimento de aplicações web
+    * Curso de desenvolvimento de jogos com Java
+* SQL:
+    * Curso de introdução à linguagem SQL
+    * Curso avançado de SQL para bancos de dados relacionais
+    * Curso de análise de dados com SQL
+
+**Projetos**
+
+* [Nome do projeto 1]: Um projeto de aprendizado de máquina com Python
+* [Nome do projeto 2]: Um jogo desenvolvido com Java
+* [Nome do projeto 3]: Um banco de dados relacional desenvolvido com SQL
+
+**Contato**
+
+[Seu nome]
+[Seu e-mail]
+[Seu LinkedIn]
